@@ -1,0 +1,23 @@
+{
+  "name": "official-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romaniso/electron-tutorial.git"
+  },
+  "author": "romaniso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romaniso/electron-tutorial/issues"
+  },
+  "homepage": "https://github.com/romaniso/electron-tutorial#readme",
+  "devDependencies": {
+    "electron": "^33.2.1"
+  }
+}
